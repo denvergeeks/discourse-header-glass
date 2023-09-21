@@ -1,8 +1,8 @@
 {
   "name": "Header Glass",
   "component": true,
-  "about_url": "https://github.com/Lillinator/glass-header/blob/main/README.md",
-  "license_url": "https://github.com/Lillinator/glass-header/blob/main/LICENSE",
+  "about_url": "https://github.com/denvergeeks/discourse-header-glass/blob/main/README.md",
+  "license_url": "https://github.com/denvergeeks/discourse-header-glass/blob/main/LICENSE",
   "authors": "@denvergeeks, @Lilly", 
   "theme_version": "1.1"
   "minimum_discourse_version": null,
