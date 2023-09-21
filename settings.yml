@@ -19,5 +19,5 @@ header_icons_drop_shadow:
   type: float
   min: 0
   max: 1.0
-  default: 0.5
+  default: 0.4
   description: "Visibility of drop shadow on headericons, as a decimal of 1, for example: 0.8 = 80%, 0.35 = 35%."
