@@ -1,0 +1,23 @@
+header_color:
+  type: string
+  default: "77, 0, 153"
+  description: "RGB color code for glass header, for example: 47, 79, 79. See https://www.w3schools.com/colors/colors_picker.asp for RGB color picker."
+  
+transparency:
+  type: float
+  min: 0
+  max: 1.0
+  default: 0.5
+  description: "Transparency percent as a decimal of 1, for example: 0.8 = 80%, 0.35 = 35%."
+  
+header_icons_color:
+  type: string
+  default: ""
+  description: "RGB color code for header icons, for example: 255, 255, 255."
+
+header_icons_drop_shadow:
+  type: float
+  min: 0
+  max: 1.0
+  default: 0.5
+  description: "Visibility of drop shadow on headericons, as a decimal of 1, for example: 0.8 = 80%, 0.35 = 35%."
