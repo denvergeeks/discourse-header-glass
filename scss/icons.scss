@@ -1,0 +1,9 @@
+.d-header-icons .d-icon,
+.header-sidebar-toggle button .d-icon {
+  color: rgb(var(--header-icons-color)) !important;
+//  &:hover {
+//    background: rgba(var(--header-color), var(--header-transparency))
+//  }
+  filter: drop-shadow(1px 4px 2px rgba(0, 0, 0, var(--header-icons-drop-shadow))) !important;
+
+}
