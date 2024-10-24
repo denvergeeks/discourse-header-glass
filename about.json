@@ -4,7 +4,7 @@
   "about_url": "https://github.com/denvergeeks/discourse-header-glass/blob/main/README.md",
   "license_url": "https://github.com/denvergeeks/discourse-header-glass/blob/main/LICENSE",
   "authors": "@denvergeeks, @Lilly", 
-  "theme_version": "1.2",
+  "theme_version": "1.3",
   "minimum_discourse_version": null,
   "maximum_discourse_version": null,
   "assets": {
