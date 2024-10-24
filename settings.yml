@@ -1,7 +1,7 @@
 header_color:
   type: string
   default: "255, 255, 255"
-  description: "RGB color code for glass header, for example: <strong>255, 255, 255</strong> is white. See <a href="https://www.w3schools.com/colors/colors_picker.asp">https://www.w3schools.com/colors/colors_picker.asp</a> for RGB color picker."
+  description: "RGB color code for glass header, for example: 255, 255, 255 is white. See https://www.w3schools.com/colors/colors_picker.asp for RGB color picker."
   
 transparency:
   type: float
